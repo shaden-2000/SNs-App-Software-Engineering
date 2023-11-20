@@ -1,9 +1,9 @@
 # SNs-Fitness-App--Software-Engineering
 
-## 1- What is the project/software idea?
+## 1- the project idea
 the project is called Special-needs Fitness App. It's an application. The main idea of the application is to assist people that have been injured or have disabilities by suggesting proper physical therapy workouts relying on the user information and make it easier to contact physical specialists at any time.
 
-## 2- What type of problem will this software solve?
+## 2- problem
 The target group (people with special needs or injured)
 are having difficulty finding exercises that can help them get better. In this case, the application allows for the ease of finding the right exercises for their condition. And in other case some people do not have specialists in their area, So our application allows the advantage of communicating with specialists.
 
@@ -81,4 +81,6 @@ page.
 - With the logout option, you’ll be transferred to the interface of the application.
 
 ## System Models ( Use Case Diagram )
-!(Screenshot 1445-05-06 at 5.53.40 AM.png)
+<img width="1038" alt="Screenshot 1445-05-06 at 5 53 40 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/9941f895-310a-4a25-a478-fa44fe00532f">
+
+
