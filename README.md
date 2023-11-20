@@ -82,7 +82,10 @@ page.
 
 ## System Models ( Use Case Diagram )
 <img width="1038" alt="Screenshot 1445-05-06 at 5 53 40 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/9941f895-310a-4a25-a478-fa44fe00532f">
+
+
 ## System Models ( Class Diagram )
+
 <img width="654" alt="Screenshot 1445-05-06 at 9 18 54 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/a8b6e2b2-33f5-4ce5-b5eb-5b0c97cae971">
 
 ## Implementation
