@@ -82,5 +82,96 @@ page.
 
 ## System Models ( Use Case Diagram )
 <img width="1038" alt="Screenshot 1445-05-06 at 5 53 40 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/9941f895-310a-4a25-a478-fa44fe00532f">
+## System Models ( Class Diagram )
+<img width="654" alt="Screenshot 1445-05-06 at 9 18 54 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/a8b6e2b2-33f5-4ce5-b5eb-5b0c97cae971">
+
+## Implementation
+
+
+<img width="616" alt="Screenshot 1445-05-06 at 9 19 49 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/06028bc1-92dc-456d-865d-380069787681">
+
+
+
+
+
+
+
+
+<img width="677" alt="Screenshot 1445-05-06 at 9 21 29 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/389586c8-1d52-4db7-a4e6-5d35512e1512">
+
+
+
+
+
+
+
+
+<img width="696" alt="Screenshot 1445-05-06 at 9 21 50 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/61ac144d-f40d-4d0c-ad89-7c17d656642a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="644" alt="Screenshot 1445-05-06 at 9 22 34 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/c3e616db-ccfb-460b-9ee4-dd3da93a2cf1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="621" alt="Screenshot 1445-05-06 at 9 23 42 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/3737d769-a77f-4ef8-bac0-e66878d9fd4b">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="631" alt="Screenshot 1445-05-06 at 9 24 08 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/6eead984-9dac-443e-a338-f6cb21bb1b06">
+
+
+
+
+
+
+
+
+
+<img width="661" alt="Screenshot 1445-05-06 at 9 24 29 AM" src="https://github.com/shaden-2000/SNs-Fitness-App--Software-Engineering/assets/100734021/e34aa8f0-db98-4d5d-ab62-75ee375906db">
+
+
+
+
 
 
