@@ -1,4 +1,4 @@
-# SNs-Fitness-App--Software-Engineering
+# (SNs) special needs fitness application - Software Engineering
 
 ## 1- the project idea
 the project is called Special-needs Fitness App. It's an application. The main idea of the application is to assist people that have been injured or have disabilities by suggesting proper physical therapy workouts relying on the user information and make it easier to contact physical specialists at any time.
